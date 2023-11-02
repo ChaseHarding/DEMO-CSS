@@ -1,0 +1,12 @@
+body {
+    background-color: peru;
+}
+h2 {
+    font-family: 'Courier New', Courier, monospace;
+}
+h1:hover {
+    color: #9f3315;
+}
+main > div {
+    background: #ecd6ac;
+}
